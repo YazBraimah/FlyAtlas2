@@ -1,0 +1,17 @@
+# Path to an uncompressed FASTA file with all chromosome sequences.
+DNA: '/home/ya76/Drosophila_stuff/D.melanogaster/dmel-all-chromosome-r6.23.fasta'
+GTF: '/home/ya76/Drosophila_stuff/D.melanogaster/annotations/dmel-all-r6.23.gtf'
+TRX: '/home/ya76/Drosophila_stuff/D.melanogaster/annotations/dmel-all-transcript-r6.23.fasta'
+# MIR: '/home/ya76/Drosophila_stuff/D.melanogaster/annotations/dmel-all-miRNA-r6.24.fasta'
+INDEX: '/home/ya76/Drosophila_stuff/D.melanogaster/index/hisat2'
+
+# Path to a folder where final files will be written.
+OUT_DIR: '/fs/cbsufsrv5/data2/ya76/FlyAtlas2/RNAseq_analysis'
+HOME_DIR: '/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq'
+WORK_DIR: '/workdir'
+
+# Path to a JSON file with samples and their corresponding FASTQ files.
+PE_SAMPLES_mRNA: '/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/mRNA_samples_pe.json'
+# SE_SAMPLES_microRNA: '/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/microRNA_samples_se.json'
+# PE_SAMPLES_microRNA: '/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/microRNA_samples_pe.json'
+

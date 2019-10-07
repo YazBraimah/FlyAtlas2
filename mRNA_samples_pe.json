@@ -1,0 +1,874 @@
+{
+    "Female_Anal_Pad_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Anal_Pad_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Anal_Pad_1.R2.fq.gz"
+        ]
+    },
+    "Female_Anal_Pad_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Anal_Pad_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Anal_Pad_2.R2.fq.gz"
+        ]
+    },
+    "Female_Anal_Pad_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Anal_Pad_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Anal_Pad_3.R2.fq.gz"
+        ]
+    },
+    "Female_Brain_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Brain_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Brain_1.R2.fq.gz"
+        ]
+    },
+    "Female_Brain_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Brain_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Brain_2.R2.fq.gz"
+        ]
+    },
+    "Female_Brain_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Brain_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Brain_3.R2.fq.gz"
+        ]
+    },
+    "Female_Carcass_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_1.R2.fq.gz"
+        ]
+    },
+    "Female_Carcass_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_2.R2.fq.gz"
+        ]
+    },
+    "Female_Carcass_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_3.R2.fq.gz"
+        ]
+    },
+    "Female_Carcass_4": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_4.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_4.R2.fq.gz"
+        ]
+    },
+    "Female_Carcass_5": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_5.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_5.R2.fq.gz"
+        ]
+    },
+    "Female_Carcass_6": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_6.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Carcass_6.R2.fq.gz"
+        ]
+    },
+    "Female_Crop_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Crop_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Crop_1.R2.fq.gz"
+        ]
+    },
+    "Female_Crop_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Crop_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Crop_2.R2.fq.gz"
+        ]
+    },
+    "Female_Eye_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Eye_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Eye_1.R2.fq.gz"
+        ]
+    },
+    "Female_Eye_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Eye_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Eye_2.R2.fq.gz"
+        ]
+    },
+    "Female_Head_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Head_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Head_1.R2.fq.gz"
+        ]
+    },
+    "Female_Head_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Head_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Head_2.R2.fq.gz"
+        ]
+    },
+    "Female_Head_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Head_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Head_3.R2.fq.gz"
+        ]
+    },
+    "Female_Hindgut_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Hindgut_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Hindgut_1.R2.fq.gz"
+        ]
+    },
+    "Female_Hindgut_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Hindgut_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Hindgut_2.R2.fq.gz"
+        ]
+    },
+    "Female_Hindgut_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Hindgut_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Hindgut_3.R2.fq.gz"
+        ]
+    },
+    "Female_Mated_Spermatheca_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Mated_Spermatheca_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Mated_Spermatheca_1.R2.fq.gz"
+        ]
+    },
+    "Female_Mated_Spermatheca_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Mated_Spermatheca_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Mated_Spermatheca_2.R2.fq.gz"
+        ]
+    },
+    "Female_Mated_Spermatheca_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Mated_Spermatheca_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Mated_Spermatheca_3.R2.fq.gz"
+        ]
+    },
+    "Female_Midgut_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Midgut_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Midgut_1.R2.fq.gz"
+        ]
+    },
+    "Female_Midgut_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Midgut_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Midgut_2.R2.fq.gz"
+        ]
+    },
+    "Female_Midgut_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Midgut_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Midgut_3.R2.fq.gz"
+        ]
+    },
+    "Female_Salivary_Gland_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Salivary_Gland_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Salivary_Gland_1.R2.fq.gz"
+        ]
+    },
+    "Female_Salivary_Gland_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Salivary_Gland_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Salivary_Gland_2.R2.fq.gz"
+        ]
+    },
+    "Female_Thoracicoabdominal_Ganglion_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Thoracicoabdominal_Ganglion_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Thoracicoabdominal_Ganglion_1.R2.fq.gz"
+        ]
+    },
+    "Female_Thoracicoabdominal_Ganglion_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Thoracicoabdominal_Ganglion_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Thoracicoabdominal_Ganglion_2.R2.fq.gz"
+        ]
+    },
+    "Female_Tubule_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Tubule_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Tubule_1.R2.fq.gz"
+        ]
+    },
+    "Female_Tubule_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Tubule_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Tubule_2.R2.fq.gz"
+        ]
+    },
+    "Female_Tubule_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Tubule_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Tubule_3.R2.fq.gz"
+        ]
+    },
+    "Female_Virgin_Spermatheca_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Virgin_Spermatheca_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Virgin_Spermatheca_1.R2.fq.gz"
+        ]
+    },
+    "Female_Virgin_Spermatheca_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Virgin_Spermatheca_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Virgin_Spermatheca_2.R2.fq.gz"
+        ]
+    },
+    "Female_Virgin_Spermatheca_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Virgin_Spermatheca_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_Virgin_Spermatheca_3.R2.fq.gz"
+        ]
+    },
+    "Female_whole_flies_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_whole_flies_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_whole_flies_1.R2.fq.gz"
+        ]
+    },
+    "Female_whole_flies_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_whole_flies_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_whole_flies_2.R2.fq.gz"
+        ]
+    },
+    "Female_whole_flies_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_whole_flies_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Female_whole_flies_3.R2.fq.gz"
+        ]
+    },
+    "Larval_CNS_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_CNS_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_CNS_1.R2.fq.gz"
+        ]
+    },
+    "Larval_CNS_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_CNS_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_CNS_2.R2.fq.gz"
+        ]
+    },
+    "Larval_CNS_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_CNS_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_CNS_3.R2.fq.gz"
+        ]
+    },
+    "Larval_Carcass_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Carcass_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Carcass_1.R2.fq.gz"
+        ]
+    },
+    "Larval_Carcass_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Carcass_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Carcass_2.R2.fq.gz"
+        ]
+    },
+    "Larval_Carcass_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Carcass_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Carcass_3.R2.fq.gz"
+        ]
+    },
+    "Larval_FatBody_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_FatBody_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_FatBody_1.R2.fq.gz"
+        ]
+    },
+    "Larval_FatBody_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_FatBody_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_FatBody_2.R2.fq.gz"
+        ]
+    },
+    "Larval_FatBody_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_FatBody_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_FatBody_3.R2.fq.gz"
+        ]
+    },
+    "Larval_Hindgut_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Hindgut_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Hindgut_1.R2.fq.gz"
+        ]
+    },
+    "Larval_Hindgut_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Hindgut_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Hindgut_2.R2.fq.gz"
+        ]
+    },
+    "Larval_Hindgut_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Hindgut_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Hindgut_3.R2.fq.gz"
+        ]
+    },
+    "Larval_Midgut_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Midgut_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Midgut_1.R2.fq.gz"
+        ]
+    },
+    "Larval_Midgut_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Midgut_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Midgut_2.R2.fq.gz"
+        ]
+    },
+    "Larval_Midgut_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Midgut_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Midgut_3.R2.fq.gz"
+        ]
+    },
+    "Larval_Salivary_Gland_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Salivary_Gland_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Salivary_Gland_1.R2.fq.gz"
+        ]
+    },
+    "Larval_Salivary_Gland_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Salivary_Gland_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Salivary_Gland_2.R2.fq.gz"
+        ]
+    },
+    "Larval_Salivary_Gland_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Salivary_Gland_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Salivary_Gland_3.R2.fq.gz"
+        ]
+    },
+    "Larval_Trachea_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Trachea_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Trachea_1.R2.fq.gz"
+        ]
+    },
+    "Larval_Trachea_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Trachea_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Trachea_2.R2.fq.gz"
+        ]
+    },
+    "Larval_Trachea_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Trachea_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Trachea_3.R2.fq.gz"
+        ]
+    },
+    "Larval_Tubule_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Tubule_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Tubule_1.R2.fq.gz"
+        ]
+    },
+    "Larval_Tubule_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Tubule_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Tubule_2.R2.fq.gz"
+        ]
+    },
+    "Larval_Tubule_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Tubule_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Tubule_3.R2.fq.gz"
+        ]
+    },
+    "Larval_Whole_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Whole_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Whole_1.R2.fq.gz"
+        ]
+    },
+    "Larval_Whole_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Whole_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Whole_2.R2.fq.gz"
+        ]
+    },
+    "Larval_Whole_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Whole_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Larval_Whole_3.R2.fq.gz"
+        ]
+    },
+    "Male_Accessory_Glands_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Accessory_Glands_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Accessory_Glands_1.R2.fq.gz"
+        ]
+    },
+    "Male_Accessory_Glands_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Accessory_Glands_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Accessory_Glands_2.R2.fq.gz"
+        ]
+    },
+    "Male_Accessory_Glands_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Accessory_Glands_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Accessory_Glands_3.R2.fq.gz"
+        ]
+    },
+    "Male_Anal_Pad_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Anal_Pad_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Anal_Pad_1.R2.fq.gz"
+        ]
+    },
+    "Male_Anal_Pad_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Anal_Pad_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Anal_Pad_2.R2.fq.gz"
+        ]
+    },
+    "Male_Anal_Pad_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Anal_Pad_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Anal_Pad_3.R2.fq.gz"
+        ]
+    },
+    "Male_Brain_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Brain_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Brain_1.R2.fq.gz"
+        ]
+    },
+    "Male_Brain_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Brain_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Brain_2.R2.fq.gz"
+        ]
+    },
+    "Male_Brain_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Brain_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Brain_3.R2.fq.gz"
+        ]
+    },
+    "Male_Carcass_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Carcass_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Carcass_1.R2.fq.gz"
+        ]
+    },
+    "Male_Carcass_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Carcass_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Carcass_2.R2.fq.gz"
+        ]
+    },
+    "Male_Carcass_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Carcass_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Carcass_3.R2.fq.gz"
+        ]
+    },
+    "Male_Crop_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Crop_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Crop_1.R2.fq.gz"
+        ]
+    },
+    "Male_Crop_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Crop_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Crop_2.R2.fq.gz"
+        ]
+    },
+    "Male_Eye_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Eye_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Eye_1.R2.fq.gz"
+        ]
+    },
+    "Male_Eye_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Eye_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Eye_2.R2.fq.gz"
+        ]
+    },
+    "Male_Head_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Head_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Head_1.R2.fq.gz"
+        ]
+    },
+    "Male_Head_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Head_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Head_2.R2.fq.gz"
+        ]
+    },
+    "Male_Head_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Head_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Head_3.R2.fq.gz"
+        ]
+    },
+    "Male_Hindgut_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Hindgut_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Hindgut_1.R2.fq.gz"
+        ]
+    },
+    "Male_Hindgut_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Hindgut_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Hindgut_2.R2.fq.gz"
+        ]
+    },
+    "Male_Hindgut_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Hindgut_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Hindgut_3.R2.fq.gz"
+        ]
+    },
+    "Male_Midgut_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Midgut_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Midgut_1.R2.fq.gz"
+        ]
+    },
+    "Male_Midgut_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Midgut_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Midgut_2.R2.fq.gz"
+        ]
+    },
+    "Male_Midgut_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Midgut_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Midgut_3.R2.fq.gz"
+        ]
+    },
+    "Male_Salivary_Gland_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Salivary_Gland_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Salivary_Gland_1.R2.fq.gz"
+        ]
+    },
+    "Male_Salivary_Gland_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Salivary_Gland_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Salivary_Gland_2.R2.fq.gz"
+        ]
+    },
+    "Male_Testis_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Testis_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Testis_1.R2.fq.gz"
+        ]
+    },
+    "Male_Testis_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Testis_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Testis_2.R2.fq.gz"
+        ]
+    },
+    "Male_Testis_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Testis_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Testis_3.R2.fq.gz"
+        ]
+    },
+    "Male_Thoracicoabdominal_Ganglion_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Thoracicoabdominal_Ganglion_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Thoracicoabdominal_Ganglion_1.R2.fq.gz"
+        ]
+    },
+    "Male_Thoracicoabdominal_Ganglion_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Thoracicoabdominal_Ganglion_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Thoracicoabdominal_Ganglion_2.R2.fq.gz"
+        ]
+    },
+    "Male_Tubule_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Tubule_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Tubule_1.R2.fq.gz"
+        ]
+    },
+    "Male_Tubule_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Tubule_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Tubule_2.R2.fq.gz"
+        ]
+    },
+    "Male_Tubule_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Tubule_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Tubule_3.R2.fq.gz"
+        ]
+    },
+    "Male_Whole_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Whole_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Whole_1.R2.fq.gz"
+        ]
+    },
+    "Male_Whole_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Whole_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Whole_2.R2.fq.gz"
+        ]
+    },
+    "Male_Whole_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Whole_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Male_Whole_3.R2.fq.gz"
+        ]
+    },
+    "Ovary_1": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Ovary_1.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Ovary_1.R2.fq.gz"
+        ]
+    },
+    "Ovary_2": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Ovary_2.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Ovary_2.R2.fq.gz"
+        ]
+    },
+    "Ovary_3": {
+        "R1": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Ovary_3.R1.fq.gz"
+        ],
+        "R2": [
+            "/fs/cbsufsrv5/data2/ya76/FlyAtlas2/READS/mRNA/Ovary_3.R2.fq.gz"
+        ]
+    }
+}

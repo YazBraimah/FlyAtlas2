@@ -1,0 +1,67 @@
+{
+    "__default__": {
+        "q"         : "regular.q@cbsubscb01,regular.q@cbsubscb02,regular.q@cbsubscb03,regular.q@cbsubscb04,regular.q@cbsubscb05,regular.q@cbsubscb07,regular.q@cbsubscb08,regular.q@cbsubscb09,regular.q@cbsubscb10,regular.q@cbsubscb11,regular.q@cbsubscb12,regular.q@cbsubscb13",
+        "output"    : "/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/cluster_logs/",
+        "jname"     : "default",
+        "cores"     : 2,
+        "bl"        : 2,
+        "memory"    : "8G",
+        "time"      : "03:00:00"
+    },
+    "fastqcPE_mRNA": {
+        "q"         : "regular.q@cbsubscb01,regular.q@cbsubscb02,regular.q@cbsubscb03,regular.q@cbsubscb04,regular.q@cbsubscb05,regular.q@cbsubscb07,regular.q@cbsubscb08,regular.q@cbsubscb09,regular.q@cbsubscb10,regular.q@cbsubscb11,regular.q@cbsubscb12,regular.q@cbsubscb13",
+        "output"    : "/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/cluster_logs/",
+        "jname"     : "fastqc",
+        "cores"     : 1,
+        "bl"        : 1,
+        "memory"    : "8G",
+        "time"      : "01:00:00"
+    },
+    "hisat2": {
+       "q"          : "regular.q@cbsubscb01,regular.q@cbsubscb02,regular.q@cbsubscb03,regular.q@cbsubscb04,regular.q@cbsubscb05,regular.q@cbsubscb07,regular.q@cbsubscb08,regular.q@cbsubscb09,regular.q@cbsubscb10,regular.q@cbsubscb11,regular.q@cbsubscb12,regular.q@cbsubscb13",
+        "output"    : "/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/cluster_logs/",
+        "jname"     : "hs2.mapSE",
+        "cores"     : 4,
+        "bl"        : 4,
+        "memory"    : "16G",
+        "time"      : "12:00:00"
+    },
+    "stringtie": {
+       "q"          : "regular.q@cbsubscb01,regular.q@cbsubscb02,regular.q@cbsubscb03,regular.q@cbsubscb04,regular.q@cbsubscb05,regular.q@cbsubscb07,regular.q@cbsubscb08,regular.q@cbsubscb09,regular.q@cbsubscb10,regular.q@cbsubscb11,regular.q@cbsubscb12,regular.q@cbsubscb13",
+        "output"    : "/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/cluster_logs/",
+        "jname"     : "st.asmbl",
+        "cores"     : 8,
+        "bl"        : 8,
+        "memory"    : "32G",
+        "time"      : "03:00:00"
+    },
+    "abundances": {
+       "q"          : "regular.q@cbsubscb01,regular.q@cbsubscb02,regular.q@cbsubscb03,regular.q@cbsubscb04,regular.q@cbsubscb05,regular.q@cbsubscb07,regular.q@cbsubscb08,regular.q@cbsubscb09,regular.q@cbsubscb10,regular.q@cbsubscb11,regular.q@cbsubscb12,regular.q@cbsubscb13",
+        "output"    : "/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/cluster_logs/",
+        "jname"     : "st.abndns",
+        "cores"     : 8,
+        "bl"        : 8,
+        "memory"    : "32G",
+        "time"      : "06:00:00"
+    },
+    "index_mRNA": {
+       "q"          : "regular.q@cbsubscb01,regular.q@cbsubscb02,regular.q@cbsubscb03,regular.q@cbsubscb04,regular.q@cbsubscb05,regular.q@cbsubscb07,regular.q@cbsubscb08,regular.q@cbsubscb09,regular.q@cbsubscb10,regular.q@cbsubscb11,regular.q@cbsubscb12,regular.q@cbsubscb13",
+        "output"    : "/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/cluster_logs/",
+        "jname"     : "eX.make_cdna",
+        "cores"     : 4,
+        "bl"        : 4,
+        "memory"    : "8G",
+        "time"      : "02:00:00"
+    },
+    "eXpress": {
+       "q"          : "regular.q@cbsubscb01,regular.q@cbsubscb02,regular.q@cbsubscb03,regular.q@cbsubscb04,regular.q@cbsubscb05,regular.q@cbsubscb07,regular.q@cbsubscb08,regular.q@cbsubscb09,regular.q@cbsubscb10,regular.q@cbsubscb11,regular.q@cbsubscb12,regular.q@cbsubscb13",
+        "output"    : "/home/ya76/GitHub_Repositories/FlyAtlas2.RNAseq/cluster_logs/",
+        "jname"     : "GeXpress_se",
+        "cores"     : 2,
+        "bl"        : 2,
+        "memory"    : "16G",
+        "time"      : "24:00:00"
+    }
+
+}
+
