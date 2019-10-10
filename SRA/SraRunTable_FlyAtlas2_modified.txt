@@ -1,0 +1,198 @@
+LibraryLayout	Library_Name	Run	Replicate_Name	Sex	dev_stage	organism_part	RNA	Sample_Name
+PAIRED	Female Anal Pad	ERR2196295	Female_Anal_Pad_1	female	Adult	Anal Pad	mRNA	Female_Anal_Pad
+PAIRED	Female Anal Pad	ERR2196296	Female_Anal_Pad_2	female	Adult	Anal Pad	mRNA	Female_Anal_Pad
+PAIRED	Female Anal Pad	ERR2196297	Female_Anal_Pad_3	female	Adult	Anal Pad	mRNA	Female_Anal_Pad
+SINGLE	Female Anal Pad (Mir)	ERR2197857	Female_Anal_Pad_Mir_1	female	Adult	Anal Pad	microRNA	Female_Anal_Pad_Mir
+SINGLE	Female Anal Pad (Mir)	ERR2197858	Female_Anal_Pad_Mir_2	female	Adult	Anal Pad	microRNA	Female_Anal_Pad_Mir
+SINGLE	Female Anal Pad (Mir)	ERR2197859	Female_Anal_Pad_Mir_3	female	Adult	Anal Pad	microRNA	Female_Anal_Pad_Mir
+PAIRED	Female Brain	ERR2196286	Female_Brain_1	female	Adult	Brain	mRNA	Female_Brain
+PAIRED	Female Brain	ERR2196287	Female_Brain_2	female	Adult	Brain	mRNA	Female_Brain
+PAIRED	Female Brain	ERR2196288	Female_Brain_3	female	Adult	Brain	mRNA	Female_Brain
+SINGLE	Female Brain (Mir)	ERR2197851	Female_Brain_Mir_1	female	Adult	Brain	microRNA	Female_Brain_Mir
+SINGLE	Female Brain (Mir)	ERR2197852	Female_Brain_Mir_2	female	Adult	Brain	microRNA	Female_Brain_Mir
+SINGLE	Female Brain (Mir)	ERR2197853	Female_Brain_Mir_3	female	Adult	Brain	microRNA	Female_Brain_Mir
+PAIRED	Female Carcass	ERR2098815	Female_Carcass_1	female	Adult	Carcass	mRNA	Female_Carcass
+PAIRED	Female Carcass	ERR2098816	Female_Carcass_2	female	Adult	Carcass	mRNA	Female_Carcass
+PAIRED	Female Carcass	ERR2098817	Female_Carcass_3	female	Adult	Carcass	mRNA	Female_Carcass
+PAIRED	Female Carcass	ERR2098818	Female_Carcass_4	female	Adult	Carcass	mRNA	Female_Carcass
+PAIRED	Female Carcass	ERR2098819	Female_Carcass_5	female	Adult	Carcass	mRNA	Female_Carcass
+PAIRED	Female Carcass	ERR2098820	Female_Carcass_6	female	Adult	Carcass	mRNA	Female_Carcass
+SINGLE	Female Carcass (Mir)	ERR2112234	Female_Carcass_Mir_1	female	Adult	Carcass	microRNA	Female_Carcass_Mir
+SINGLE	Female Carcass (Mir)	ERR2112236	Female_Carcass_Mir_2	female	Adult	Carcass	microRNA	Female_Carcass_Mir
+PAIRED	Female Crop	ERR2617868	Female_Crop_1	female	Adult	Crop	mRNA	Female_Crop
+PAIRED	Female Crop	ERR2617869	Female_Crop_2	female	Adult	Crop	mRNA	Female_Crop
+PAIRED	Female Eye	ERR2617944	Female_Eye_1	female	Adult	Eye	mRNA	Female_Eye
+PAIRED	Female Eye	ERR2617945	Female_Eye_2	female	Adult	Eye	mRNA	Female_Eye
+PAIRED	Female Eye (Mir)	ERR2744046	Female_Eye_Mir_1	female	Adult	Eye 	microRNA	Female_Eye_Mir
+PAIRED	Female Eye (Mir)	ERR2744047	Female_Eye_Mir_2	female	Adult	Eye 	microRNA	Female_Eye_Mir
+PAIRED	Female Head	ERR2099027	Female_Head_1	female	Adult	Head	mRNA	Female_Head
+PAIRED	Female Head	ERR2099028	Female_Head_2	female	Adult	Head	mRNA	Female_Head
+PAIRED	Female Head	ERR2099029	Female_Head_3	female	Adult	Head	mRNA	Female_Head
+PAIRED	Female Hindgut	ERR2103035	Female_Hindgut_1	female	Adult	Hindgut	mRNA	Female_Hindgut
+PAIRED	Female Hindgut	ERR2103036	Female_Hindgut_2	female	Adult	Hindgut	mRNA	Female_Hindgut
+PAIRED	Female Hindgut	ERR2103037	Female_Hindgut_3	female	Adult	Hindgut	mRNA	Female_Hindgut
+SINGLE	Female Hindgut (Mir)	ERR2112240	Female_Hindgut_Mir_1	female	Adult	Hindgut	microRNA	Female_Hindgut_Mir
+SINGLE	Female Hindgut (Mir)	ERR2112242	Female_Hindgut_Mir_2	female	Adult	Hindgut	microRNA	Female_Hindgut_Mir
+PAIRED	Female Mated Spermatheca	ERR2744050	Female_Mated_Spermatheca_1	female	Adult	Mated Spermatheca	mRNA	Female_Mated_Spermatheca
+PAIRED	Female Mated Spermatheca	ERR2744051	Female_Mated_Spermatheca_2	female	Adult	Mated Spermatheca	mRNA	Female_Mated_Spermatheca
+PAIRED	Female Mated Spermatheca	ERR2744052	Female_Mated_Spermatheca_3	female	Adult	Mated Spermatheca	mRNA	Female_Mated_Spermatheca
+PAIRED	Female Midgut	ERR2099593	Female_Midgut_1	female	Adult	Midgut	mRNA	Female_Midgut
+PAIRED	Female Midgut	ERR2099594	Female_Midgut_2	female	Adult	Midgut	mRNA	Female_Midgut
+PAIRED	Female Midgut	ERR2099595	Female_Midgut_3	female	Adult	Midgut	mRNA	Female_Midgut
+SINGLE	Female Midgut (Mir)	ERR2116040	Female_Midgut_Mir_1	female	Adult	Midgut	microRNA	Female_Midgut_Mir
+SINGLE	Female Midgut (Mir)	ERR2116041	Female_Midgut_Mir_2	female	Adult	Midgut	microRNA	Female_Midgut_Mir
+SINGLE	Female Midgut (Mir)	ERR2116042	Female_Midgut_Mir_3	female	Adult	Midgut	microRNA	Female_Midgut_Mir
+SINGLE	Female Ovary (Mir)	ERR2116051	Female_Ovary_Mir_1	female	Adult	Ovary	microRNA	Female_Ovary_Mir
+SINGLE	Female Ovary (Mir)	ERR2116052	Female_Ovary_Mir_2	female	Adult	Ovary	microRNA	Female_Ovary_Mir
+SINGLE	Female Ovary (Mir)	ERR2116053	Female_Ovary_Mir_3	female	Adult	Ovary	microRNA	Female_Ovary_Mir
+PAIRED	Female Salivary Gland	ERR2617949	Female_Salivary_Gland_1	female	Adult	Salivary gland	mRNA	Female_Salivary_Gland
+PAIRED	Female Salivary Gland	ERR2617950	Female_Salivary_Gland_2	female	Adult	Salivary gland	mRNA	Female_Salivary_Gland
+PAIRED	Female Salivary Gland (Mir)	ERR2743211	Female_Salivary_Gland_Mir_1	female	Adult	Salivary Gland 	microRNA	Female_Salivary_Gland_Mir
+PAIRED	Female Thoracicoabdominal Ganglion	ERR2617953	Female_Thoracicoabdominal_Ganglion_1	female	Adult	Thoracicabdominal ganglion	mRNA	Female_Thoracicoabdominal_Ganglion
+PAIRED	Female Thoracicoabdominal Ganglion	ERR2617954	Female_Thoracicoabdominal_Ganglion_2	female	Adult	Thoracicabdominal ganglion	mRNA	Female_Thoracicoabdominal_Ganglion
+PAIRED	Female Thoracicoabdominal Ganglion (Mir)	ERR2744042	Female_Thoracicoabdominal_ganglion_Mir_1	female	Adult	Thoracicoabdominal Ganglion 	microRNA	Female_Thoracicoabdominal_ganglion_Mir
+PAIRED	Female Thoracicoabdominal Ganglion (Mir)	ERR2744043	Female_Thoracicoabdominal_ganglion_Mir_2	female	Adult	Thoracicoabdominal Ganglion 	microRNA	Female_Thoracicoabdominal_ganglion_Mir
+PAIRED	Female Tubule	ERR2103038	Female_Tubule_1	female	Adult	Malpighian Tubules	mRNA	Female_Tubule
+PAIRED	Female Tubule	ERR2103039	Female_Tubule_2	female	Adult	Malpighian Tubules	mRNA	Female_Tubule
+PAIRED	Female Tubule	ERR2103040	Female_Tubule_3	female	Adult	Malpighian Tubules	mRNA	Female_Tubule
+SINGLE	Female Tubule (Mir)	ERR2116045	Female_Tubule_Mir_1	female	Adult	Malpighian Tubules	microRNA	Female_Tubule_Mir
+SINGLE	Female Tubule (Mir)	ERR2116046	Female_Tubule_Mir_2	female	Adult	Malpighian Tubules	microRNA	Female_Tubule_Mir
+SINGLE	Female Tubule (Mir)	ERR2116047	Female_Tubule_Mir_3	female	Adult	Malpighian Tubules	microRNA	Female_Tubule_Mir
+PAIRED	Female Virgin Spermatheca	ERR2744053	Female_Virgin_Spermatheca_1	female	Adult	Virgin Spermatheca	mRNA	Female_Virgin_Spermatheca
+PAIRED	Female Virgin Spermatheca	ERR2744054	Female_Virgin_Spermatheca_2	female	Adult	Virgin Spermatheca	mRNA	Female_Virgin_Spermatheca
+PAIRED	Female Virgin Spermatheca	ERR2744055	Female_Virgin_Spermatheca_3	female	Adult	Virgin Spermatheca	mRNA	Female_Virgin_Spermatheca
+PAIRED	Female Whole	ERR2103041	Female_whole_flies_1	female	Adult	Whole	mRNA	Female_whole_flies
+PAIRED	Female Whole	ERR2103042	Female_whole_flies_2	female	Adult	Whole	mRNA	Female_whole_flies
+PAIRED	Female Whole	ERR2103043	Female_whole_flies_3	female	Adult	Whole	mRNA	Female_whole_flies
+SINGLE	Female Whole (Mir)	ERR2116048	Female_Whole_Mir_1	female	Adult	Whole	microRNA	Female_Whole_Mir
+SINGLE	Female Whole (Mir)	ERR2116049	Female_Whole_Mir_2	female	Adult	Whole	microRNA	Female_Whole_Mir
+SINGLE	Female Whole (Mir)	ERR2116050	Female_Whole_Mir_3	female	Adult	Whole	microRNA	Female_Whole_Mir
+PAIRED	Larval Carcass	ERR2105693	Larval_Carcass_1	unknown	Larva	Carcass	mRNA	Larval_Carcass
+PAIRED	Larval Carcass	ERR2105694	Larval_Carcass_2	unknown	Larva	Carcass	mRNA	Larval_Carcass
+PAIRED	Larval Carcass	ERR2105695	Larval_Carcass_3	unknown	Larva	Carcass	mRNA	Larval_Carcass
+SINGLE	Larval Carcass (Mir)	ERR2116838	Larval_Carcass_Mir_1	unknown	Larva	Carcass	microRNA	Larval_Carcass_Mir
+SINGLE	Larval Carcass (Mir)	ERR2116839	Larval_Carcass_Mir_2	unknown	Larva	Carcass	microRNA	Larval_Carcass_Mir
+SINGLE	Larval Carcass (Mir)	ERR2116840	Larval_Carcass_Mir_3	unknown	Larva	Carcass	microRNA	Larval_Carcass_Mir
+PAIRED	Larval CNS	ERR2105719	Larval_CNS_1	unknown	Larva	Central Nervous System	mRNA	Larval_CNS
+PAIRED	Larval CNS	ERR2105720	Larval_CNS_2	unknown	Larva	Central Nervous System	mRNA	Larval_CNS
+PAIRED	Larval CNS	ERR2105721	Larval_CNS_3	unknown	Larva	Central Nervous System	mRNA	Larval_CNS
+SINGLE	Larval CNS (Mir)	ERR2116841	Larval_CNS_Mir_1	unknown	Larva	Central Nervous System	microRNA	Larval_CNS_Mir
+SINGLE	Larval CNS (Mir)	ERR2116842	Larval_CNS_Mir_2	unknown	Larva	Central Nervous System	microRNA	Larval_CNS_Mir
+SINGLE	Larval CNS (Mir)	ERR2116843	Larval_CNS_Mir_3	unknown	Larva	Central Nervous System	microRNA	Larval_CNS_Mir
+PAIRED	Larval FatBody	ERR2105722	Larval_FatBody_1	unknown	Larva	Fat Body	mRNA	Larval_FatBody
+PAIRED	Larval FatBody	ERR2105723	Larval_FatBody_2	unknown	Larva	Fat Body	mRNA	Larval_FatBody
+PAIRED	Larval FatBody	ERR2105724	Larval_FatBody_3	unknown	Larva	Fat Body	mRNA	Larval_FatBody
+SINGLE	Larval FatBody (Mir)	ERR2116844	Larval_FatBody_Mir_1	unknown	Larva	Fat Body	microRNA	Larval_FatBody_Mir
+SINGLE	Larval FatBody (Mir)	ERR2116845	Larval_FatBody_Mir_2	unknown	Larva	Fat Body	microRNA	Larval_FatBody_Mir
+SINGLE	Larval FatBody (Mir)	ERR2116846	Larval_FatBody_Mir_3	unknown	Larva	Fat Body	microRNA	Larval_FatBody_Mir
+PAIRED	Larval Hindgut	ERR2106358	Larval_Hindgut_1	unknown	Larva	Hindgut	mRNA	Larval_Hindgut
+PAIRED	Larval Hindgut	ERR2106359	Larval_Hindgut_2	unknown	Larva	Hindgut	mRNA	Larval_Hindgut
+PAIRED	Larval Hindgut	ERR2106360	Larval_Hindgut_3	unknown	Larva	Hindgut	mRNA	Larval_Hindgut
+SINGLE	Larval Hindgut (Mir)	ERR2116847	Larval_Hindgut_Mir_1	unknown	Larva	Hindgut	microRNA	Larval_Hindgut_Mir
+SINGLE	Larval Hindgut (Mir)	ERR2116848	Larval_Hindgut_Mir_2	unknown	Larva	Hindgut	microRNA	Larval_Hindgut_Mir
+SINGLE	Larval Hindgut (Mir)	ERR2116849	Larval_Hindgut_Mir_3	unknown	Larva	Hindgut	microRNA	Larval_Hindgut_Mir
+PAIRED	Larval Midgut	ERR2107339	Larval_Midgut_1	unknown	Larva	Midgut	mRNA	Larval_Midgut
+PAIRED	Larval Midgut	ERR2107340	Larval_Midgut_2	unknown	Larva	Midgut	mRNA	Larval_Midgut
+PAIRED	Larval Midgut	ERR2107341	Larval_Midgut_3	unknown	Larva	Midgut	mRNA	Larval_Midgut
+SINGLE	Larval Midgut (Mir)	ERR2116892	Larval_Midgut_Mir_1	unknown	Larva	Midgut	microRNA	Larval_Midgut_Mir
+SINGLE	Larval Midgut (Mir)	ERR2116893	Larval_Midgut_Mir_2	unknown	Larva	Midgut	microRNA	Larval_Midgut_Mir
+SINGLE	Larval Midgut (Mir)	ERR2116894	Larval_Midgut_Mir_3	unknown	Larva	Midgut	microRNA	Larval_Midgut_Mir
+PAIRED	Larval Salivary Gland	ERR2107342	Larval_Salivary_Gland_1	unknown	Larva	Salivary Gland	mRNA	Larval_Salivary_Gland
+PAIRED	Larval Salivary Gland	ERR2107343	Larval_Salivary_Gland_2	unknown	Larva	Salivary Gland	mRNA	Larval_Salivary_Gland
+PAIRED	Larval Salivary Gland	ERR2107344	Larval_Salivary_Gland_3	unknown	Larva	Salivary Gland	mRNA	Larval_Salivary_Gland
+SINGLE	Larval Salivary Gland (Mir)	ERR2116895	Larval_Salivary_Gland_Mir_1	unknown	Larva	Salivary Gland	microRNA	Larval_Salivary_Gland_Mir
+SINGLE	Larval Salivary Gland (Mir)	ERR2116896	Larval_Salivary_Gland_Mir_2	unknown	Larva	Salivary Gland	microRNA	Larval_Salivary_Gland_Mir
+SINGLE	Larval Salivary Gland (Mir)	ERR2116897	Larval_Salivary_Gland_Mir_3	unknown	Larva	Salivary Gland	microRNA	Larval_Salivary_Gland_Mir
+PAIRED	Larval Trachea	ERR2107419	Larval_Trachea_1	unknown	Larva	Trachea	mRNA	Larval_Trachea
+PAIRED	Larval Trachea	ERR2107420	Larval_Trachea_2	unknown	Larva	Trachea	mRNA	Larval_Trachea
+PAIRED	Larval Trachea	ERR2107421	Larval_Trachea_3	unknown	Larva	Trachea	mRNA	Larval_Trachea
+SINGLE	Larval Trachea (Mir)	ERR2116898	Larval_Trachea_Mir_1	unknown	Larva	Trachea	microRNA	Larval_Trachea_Mir
+SINGLE	Larval Trachea (Mir)	ERR2116899	Larval_Trachea_Mir_2	unknown	Larva	Trachea	microRNA	Larval_Trachea_Mir
+SINGLE	Larval Trachea (Mir)	ERR2116900	Larval_Trachea_Mir_3	unknown	Larva	Trachea	microRNA	Larval_Trachea_Mir
+PAIRED	Larval Tubule	ERR2107422	Larval_Tubule_1	unknown	Larva	Malpighian Tubules	mRNA	Larval_Tubule
+PAIRED	Larval Tubule	ERR2107423	Larval_Tubule_2	unknown	Larva	Malpighian Tubules	mRNA	Larval_Tubule
+PAIRED	Larval Tubule	ERR2107424	Larval_Tubule_3	unknown	Larva	Malpighian Tubules	mRNA	Larval_Tubule
+SINGLE	Larval Tubule (Mir)	ERR2116901	Larval_Tubule_Mir_1	unknown	Larva	Malpighian Tubules	microRNA	Larval_Tubule_Mir
+SINGLE	Larval Tubule (Mir)	ERR2116902	Larval_Tubule_Mir_2	unknown	Larva	Malpighian Tubules	microRNA	Larval_Tubule_Mir
+SINGLE	Larval Tubule (Mir)	ERR2116903	Larval_Tubule_Mir_3	unknown	Larva	Malpighian Tubules	microRNA	Larval_Tubule_Mir
+PAIRED	Larval Whole	ERR2107425	Larval_Whole_1	unknown	Larva	whole	mRNA	Larval_Whole
+PAIRED	Larval Whole	ERR2107426	Larval_Whole_2	unknown	Larva	whole	mRNA	Larval_Whole
+PAIRED	Larval Whole	ERR2107427	Larval_Whole_3	unknown	Larva	whole	mRNA	Larval_Whole
+SINGLE	Larval Whole (Mir)	ERR2116904	Larval_Whole_Mir_1	unknown	Larva	Whole flies	microRNA	Larval_Whole_Mir
+SINGLE	Larval Whole (Mir)	ERR2116905	Larval_Whole_Mir_2	unknown	Larva	Whole flies	microRNA	Larval_Whole_Mir
+SINGLE	Larval Whole (Mir)	ERR2116906	Larval_Whole_Mir_3	unknown	Larva	Whole flies	microRNA	Larval_Whole_Mir
+SINGLE	Male Accessory Gland (Mir)	ERR2117072	Male_Accessory_Gland_Mir_1	male	Adult	Accessory Gland	microRNA	Male_Accessory_Gland_Mir
+SINGLE	Male Accessory Gland (Mir)	ERR2117073	Male_Accessory_Gland_Mir_2	male	Adult	Accessory Gland	microRNA	Male_Accessory_Gland_Mir
+SINGLE	Male Accessory Gland (Mir)	ERR2117074	Male_Accessory_Gland_Mir_3	male	Adult	Accessory Gland	microRNA	Male_Accessory_Gland_Mir
+PAIRED	Male Accessory Glands	ERR2196289	Male_Accessory_Glands_1	male	Adult	Accessory Glands	mRNA	Male_Accessory_Glands
+PAIRED	Male Accessory Glands	ERR2196290	Male_Accessory_Glands_2	male	Adult	Accessory Glands	mRNA	Male_Accessory_Glands
+PAIRED	Male Accessory Glands	ERR2196291	Male_Accessory_Glands_3	male	Adult	Accessory Glands	mRNA	Male_Accessory_Glands
+PAIRED	Male Anal Pad	ERR2196292	Male_Anal_Pad_1	male	Adult	Anal Pad	mRNA	Male_Anal_Pad
+PAIRED	Male Anal Pad	ERR2196293	Male_Anal_Pad_2	male	Adult	Anal Pad	mRNA	Male_Anal_Pad
+PAIRED	Male Anal Pad	ERR2196294	Male_Anal_Pad_3	male	Adult	Anal Pad	mRNA	Male_Anal_Pad
+SINGLE	Male Anal Pad (Mir)	ERR2197860	Male_Anal_Pad_Mir_1	male	Adult	Anal Pad	microRNA	Male_Anal_Pad_Mir
+SINGLE	Male Anal Pad (Mir)	ERR2197861	Male_Anal_Pad_Mir_2	male	Adult	Anal Pad	microRNA	Male_Anal_Pad_Mir
+SINGLE	Male Anal Pad (Mir)	ERR2197862	Male_Anal_Pad_Mir_3	male	Adult	Anal Pad	microRNA	Male_Anal_Pad_Mir
+PAIRED	Male Brain	ERR2196031	Male_Brain_1	male	Adult	Brain	mRNA	Male_Brain
+PAIRED	Male Brain	ERR2196032	Male_Brain_2	male	Adult	Brain	mRNA	Male_Brain
+PAIRED	Male Brain	ERR2196033	Male_Brain_3	male	Adult	Brain	mRNA	Male_Brain
+SINGLE	Male Brain (Mir)	ERR2197854	Male_Brain_Mir_1	male	Adult	Brain	microRNA	Male_Brain_Mir
+SINGLE	Male Brain (Mir)	ERR2197855	Male_Brain_Mir_2	male	Adult	Brain	microRNA	Male_Brain_Mir
+SINGLE	Male Brain (Mir)	ERR2197856	Male_Brain_Mir_3	male	Adult	Brain	microRNA	Male_Brain_Mir
+PAIRED	Male Carcass	ERR2103699	Male_Carcass_1	male	Adult	Carcass	mRNA	Male_Carcass
+PAIRED	Male Carcass	ERR2103700	Male_Carcass_2	male	Adult	Carcass	mRNA	Male_Carcass
+PAIRED	Male Carcass	ERR2103701	Male_Carcass_3	male	Adult	Carcass	mRNA	Male_Carcass
+SINGLE	Male Carcass (Mir)	ERR2117075	Male_Carcass_Mir_1	male	Adult	Carcass	microRNA	Male_Carcass_Mir
+SINGLE	Male Carcass (Mir)	ERR2117076	Male_Carcass_Mir_2	male	Adult	Carcass	microRNA	Male_Carcass_Mir
+SINGLE	Male Carcass (Mir)	ERR2117077	Male_Carcass_Mir_3	male	Adult	Carcass	microRNA	Male_Carcass_Mir
+PAIRED	Male Crop	ERR2617942	Male_Crop_1	male	Adult	Crop	mRNA	Male_Crop
+PAIRED	Male Crop	ERR2617943	Male_Crop_2	male	Adult	Crop	mRNA	Male_Crop
+PAIRED	Male Eye	ERR2617946	Male_Eye_1	male	Adult	Eye	mRNA	Male_Eye
+PAIRED	Male Eye	ERR2617947	Male_Eye_2	male	Adult	Eye	mRNA	Male_Eye
+PAIRED	Male Eye (Mir)	ERR2744048	Male_Eye_Mir_1	male	Adult	Eye 	microRNA	Male_Eye_Mir
+PAIRED	Male Eye (Mir)	ERR2744049	Male_Eye_Mir_2	male	Adult	Eye 	microRNA	Male_Eye_Mir
+PAIRED	Male Head	ERR2103702	Male_Head_1	male	Adult	Head	mRNA	Male_Head
+PAIRED	Male Head	ERR2103703	Male_Head_2	male	Adult	Head	mRNA	Male_Head
+PAIRED	Male Head	ERR2103704	Male_Head_3	male	Adult	Head	mRNA	Male_Head
+SINGLE	Male Head (Mir)	ERR2117078	Male_Head_Mir_1	male	Adult	Head	microRNA	Male_Head_Mir
+SINGLE	Male Head (Mir)	ERR2117079	Male_Head_Mir_2	male	Adult	Head	microRNA	Male_Head_Mir
+SINGLE	Male Head (Mir)	ERR2117080	Male_Head_Mir_3	male	Adult	Head	microRNA	Male_Head_Mir
+PAIRED	Male Hindgut	ERR2105046	Male_Hindgut_1	male	Adult	Hindgut	mRNA	Male_Hindgut
+PAIRED	Male Hindgut	ERR2105047	Male_Hindgut_2	male	Adult	Hindgut	mRNA	Male_Hindgut
+PAIRED	Male Hindgut	ERR2105048	Male_Hindgut_3	male	Adult	Hindgut	mRNA	Male_Hindgut
+SINGLE	Male Hindgut (Mir)	ERR2117081	Male_Hindgut_Mir_1	male	Adult	Hindgut	microRNA	Male_Hindgut_Mir
+SINGLE	Male Hindgut (Mir)	ERR2117082	Male_Hindgut_Mir_2	male	Adult	Hindgut	microRNA	Male_Hindgut_Mir
+SINGLE	Male Hindgut (Mir)	ERR2117083	Male_Hindgut_Mir_3	male	Adult	Hindgut	microRNA	Male_Hindgut_Mir
+PAIRED	Male Midgut	ERR2105058	Male_Midgut_1	male	Adult	Midgut	mRNA	Male_Midgut
+PAIRED	Male Midgut	ERR2105059	Male_Midgut_2	male	Adult	Midgut	mRNA	Male_Midgut
+PAIRED	Male Midgut	ERR2105060	Male_Midgut_3	male	Adult	Midgut	mRNA	Male_Midgut
+SINGLE	Male Midgut (Mir)	ERR2117084	Male_Midgut_Mir_1	male	Adult	Midgut	microRNA	Male_Midgut_Mir
+SINGLE	Male Midgut (Mir)	ERR2117085	Male_Midgut_Mir_2	male	Adult	Midgut	microRNA	Male_Midgut_Mir
+SINGLE	Male Midgut (Mir)	ERR2117086	Male_Midgut_Mir_3	male	Adult	Midgut	microRNA	Male_Midgut_Mir
+PAIRED	Male Salivary Gland	ERR2617951	Male_Salivary_Gland_1	male	Adult	Salivary gland	mRNA	Male_Salivary_Gland
+PAIRED	Male Salivary Gland	ERR2617952	Male_Salivary_Gland_2	male	Adult	Salivary gland	mRNA	Male_Salivary_Gland
+PAIRED	Male Testis	ERR2105061	Male_Testis_1	male	Adult	Testis	mRNA	Male_Testis
+PAIRED	Male Testis	ERR2105062	Male_Testis_2	male	Adult	Testis	mRNA	Male_Testis
+PAIRED	Male Testis	ERR2105063	Male_Testis_3	male	Adult	Testis	mRNA	Male_Testis
+SINGLE	Male Testis (Mir)	ERR2117087	Male_Testis_Mir_1	male	Adult	Testis	microRNA	Male_Testis_Mir
+SINGLE	Male Testis (Mir)	ERR2117088	Male_Testis_Mir_2	male	Adult	Testis	microRNA	Male_Testis_Mir
+SINGLE	Male Testis (Mir)	ERR2117089	Male_Testis_Mir_3	male	Adult	Testis	microRNA	Male_Testis_Mir
+PAIRED	Male Thoracicoabdominal Ganglion	ERR2617955	Male_Thoracicoabdominal_Ganglion_1	male	Adult	Thoracicabdominal ganglion	mRNA	Male_Thoracicoabdominal_Ganglion
+PAIRED	Male Thoracicoabdominal Ganglion	ERR2617956	Male_Thoracicoabdominal_Ganglion_2	male	Adult	Thoracicabdominal ganglion	mRNA	Male_Thoracicoabdominal_Ganglion
+PAIRED	Male Thoracicoabdominal Ganglion (Mir)	ERR2744044	Male_Thoracicoabdominal_ganglion_Mir_1	male	Adult	Thoracicoabdominal Ganglion 	microRNA	Male_Thoracicoabdominal_ganglion_Mir
+PAIRED	Male Thoracicoabdominal Ganglion (Mir)	ERR2744045	Male_Thoracicoabdominal_ganglion_Mir_2	male	Adult	Thoracicoabdominal Ganglion 	microRNA	Male_Thoracicoabdominal_ganglion_Mir
+PAIRED	Male Tubule	ERR2105064	Male_Tubule_1	male	Adult	Malpighian Tubules	mRNA	Male_Tubule
+PAIRED	Male Tubule	ERR2105065	Male_Tubule_2	male	Adult	Malpighian Tubules	mRNA	Male_Tubule
+PAIRED	Male Tubule	ERR2105066	Male_Tubule_3	male	Adult	Malpighian Tubules	mRNA	Male_Tubule
+SINGLE	Male Tubule (Mir)	ERR2117090	Male_Tubule_Mir_1	male	Adult	Malpighian Tubules	microRNA	Male_Tubule_Mir
+SINGLE	Male Tubule (Mir)	ERR2117091	Male_Tubule_Mir_2	male	Adult	Malpighian Tubules	microRNA	Male_Tubule_Mir
+SINGLE	Male Tubule (Mir)	ERR2117092	Male_Tubule_Mir_3	male	Adult	Malpighian Tubules	microRNA	Male_Tubule_Mir
+PAIRED	Male Whole	ERR2103705	Male_Whole_1	male	Adult	whole flies	mRNA	Male_Whole
+PAIRED	Male Whole	ERR2103706	Male_Whole_2	male	Adult	whole flies	mRNA	Male_Whole
+PAIRED	Male Whole	ERR2103707	Male_Whole_3	male	Adult	whole flies	mRNA	Male_Whole
+SINGLE	Male Whole (Mir)	ERR2117093	Male_Whole_Mir_1	male	Adult	Whole Flies	microRNA	Male_Whole_Mir
+SINGLE	Male Whole (Mir)	ERR2117094	Male_Whole_Mir_2	male	Adult	Whole Flies	microRNA	Male_Whole_Mir
+SINGLE	Male Whole (Mir)	ERR2117095	Male_Whole_Mir_3	male	Adult	Whole Flies	microRNA	Male_Whole_Mir
+PAIRED	Ovary	ERR2102258	Ovary_1	female	Adult	Ovary	mRNA	Ovary
+PAIRED	Ovary	ERR2102259	Ovary_2	female	Adult	Ovary	mRNA	Ovary
+PAIRED	Ovary	ERR2102260	Ovary_3	female	Adult	Ovary	mRNA	Ovary
